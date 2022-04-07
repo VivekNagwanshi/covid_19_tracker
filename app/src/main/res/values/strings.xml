@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Covid 19 Tracker</string>
+    <string name="otp_verification">Mobile Number VERIFICATION</string>
+    <string name="we_will_send_you_and_an_one_time_password_on_this_mobile_number">We will send you and an one time password on this mobile number</string>
+    <string name="enter_mobile_number">Enter Mobile Number</string>
+    <string name="_7898524620">7898524620</string>
+    <string name="get_otp">Get otp</string>
+    <string name="total_cases">Total Cases</string>
+    <string name="recovered">Recovered</string>
+    <string name="deaths">Deaths</string>
+    <string name="global_state">GLOBAL STATE</string>
+    <string name="today_cases">Today Cases</string>
+    <string name="today_death">Today Death</string>
+    <string name="total_recovered">Total Recovered</string>
+    <string name="total_tests">Total Tests</string>
+    <string name="total_death">Total Death</string>
+    <string name="critical">Critical</string>
+    <string name="active">Active</string>
+    <string name="affected_countries">Affected Countries</string>
+    <string name="track_countries">Track countries</string>
+    <string name="covid_19_tracker">COVID-19 Tracker</string>
+    <string name="resend_otp">RESEND OTP</string>
+    <string name="verify">verify</string>
+</resources>

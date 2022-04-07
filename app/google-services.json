@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "240696020405",
+    "project_id": "evoting-ef071",
+    "storage_bucket": "evoting-ef071.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240696020405:android:8d3b9bc0b3d885a9991dfc",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240696020405-hlgtmhqeu4h4q87agnvfbdm8stll0o6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzTlJMErEXeit330S8WFV6Ie0z7UxAWfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240696020405-hlgtmhqeu4h4q87agnvfbdm8stll0o6r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240696020405:android:58b8b4f715b8f088991dfc",
+        "android_client_info": {
+          "package_name": "com.example.newmy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240696020405-hlgtmhqeu4h4q87agnvfbdm8stll0o6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzTlJMErEXeit330S8WFV6Ie0z7UxAWfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240696020405-hlgtmhqeu4h4q87agnvfbdm8stll0o6r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
